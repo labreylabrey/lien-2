@@ -101,10 +101,6 @@ p.name {
   letter-spacing: .3em;
 }
 
-audio {
-  margin-left: -20px;
-}
-
 audio::-webkit-media-controls-panel {
   background-color: white;
 }
